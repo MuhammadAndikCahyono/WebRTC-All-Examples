@@ -1,0 +1,22 @@
+{
+  "portfolio_type": {
+    "data": [
+      {
+        "key": null,
+        "label": "All Types"
+      },
+      {
+        "key": "live",
+        "label": "Live"
+      },
+      {
+        "key": "proposal",
+        "label": "Proposal"
+      }
+    ],
+    "is_disabled": false,
+    "is_valid": true,
+    "is_visible": true,
+    "name": "portfolio_type"
+  }
+}

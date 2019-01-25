@@ -1,0 +1,52 @@
+<strong>
+  Stage 1
+</strong>
+<hr />
+<div class="row">
+  <div class="col-6">
+    Is Initiator?
+    <br />
+    <input type="radio" name="isInit" [value]="true" [(ngModel)]="isInitiator" />Yes
+    <br />
+    <input type="radio" name="isInit" [value]="false" [(ngModel)]="isInitiator" />No
+    <br />
+    <button (click)="loadResources()">
+      <span *ngIf="isInitiator">Load From Caller</span>
+      <span *ngIf="!isInitiator">Load From Receiver</span>
+    </button>
+    <br />
+    My Peer:
+    <input [(ngModel)]="myPeerDetails" />
+  </div>
+  <div class="col-6">
+    <div style="height:300px;">
+      <video #myVideoCtr muted></video>
+    </div>
+  </div>
+</div>
+<hr />
+
+<strong>
+  Stage 2
+</strong>
+<hr />
+
+copy data from one Id to another.
+<div class="row">
+  <div class="col-6">
+    Other Peer Details:
+    <input [(ngModel)]="otherUserPeerDetails" />
+    <br />
+    <button (click)="connect()">Connect</button>
+  </div>
+  <div class="col-6">
+    <div style="height:300px;">
+      <video #otherUserVideoCtr></video>
+    </div>
+  </div>
+  </div>
+
+
+
+
+

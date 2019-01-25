@@ -1,0 +1,5768 @@
+{
+  "portfolios": {
+    "items": [
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 1
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": null,
+          "value": null
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4014.227137
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.0
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "use instrument request"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2367
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 1
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": null,
+          "value": null
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4014.227137
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.0
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "portfolio demo-111"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2345
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "in_sync": {
+              "value": true
+            },
+            "portfolio_attribute_asset_count": {
+              "value": 10
+            },
+            "portfolio_attribute_avg_rating": {
+              "order": 16,
+              "value": "BBB"
+            },
+            "portfolio_attribute_avg_yield": {
+              "value": 0.04212234290379805
+            },
+            "portfolio_attribute_creation_date": {
+              "value": "2018-09-16T11:16:55Z"
+            },
+            "portfolio_attribute_currency": {
+              "value": "EUR"
+            },
+            "portfolio_attribute_current_capital": {
+              "value": 766921.0286037158
+            },
+            "portfolio_attribute_duration": {
+              "value": 7.613970875334336
+            },
+            "portfolio_attribute_last_modified": {
+              "value": "2018-09-16T11:16:55Z"
+            },
+            "portfolio_attribute_name": {
+              "value": "ergytrhh"
+            },
+            "portfolio_attribute_portfolio_id": {
+              "value": 2074
+            },
+            "portfolio_attribute_type": {
+              "value": "Proposal"
+            }
+          }
+        ],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.042559447301792695
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4450243519.722789
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.642468996129496
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Generated portfolio"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 927
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 1
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": null,
+          "value": null
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4014.227137
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.0
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "use instrument request"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2368
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 1
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": null,
+          "value": null
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4014.227137
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.0
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "portfolio FIG-7xx77"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2440
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.042559447301792695
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-02-01T14:03:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4450243519.722789
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.642468996129496
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-03-11T12:10:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Generated portfolio"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 926
+        },
+        "portfolio_attribute_type": {
+          "value": "Live"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 6
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 12,
+          "value": "BB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.08080049909931777
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-18T08:53:34Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 560370.47422
+        },
+        "portfolio_attribute_duration": {
+          "value": 11.80437585419028
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-18T08:53:34Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "23423"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2437
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 3
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 12,
+          "value": "BB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.08190163572954542
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-18T08:50:17Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 532602.13
+        },
+        "portfolio_attribute_duration": {
+          "value": 12.033643467811517
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-18T08:52:12Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "123"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2436
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 14,
+          "value": "BB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07705975898968956
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-17T07:48:25Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12281525232.242382
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.599627886259201
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-17T07:48:25Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe2018-10-17 07H:48M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2394
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 14,
+          "value": "BB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07447922729068669
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-17T07:06:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12348713698.296001
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.611002931602055
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-17T07:06:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2391
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 10,
+          "value": "B"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.049586556277540106
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-17T07:05:56Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 8376399121.769539
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.6756141976847765
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-17T07:05:56Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2390
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 13,
+          "value": "BB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07976555520399707
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-17T06:50:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12281456263.66238
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.6279023015099785
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-17T06:50:33Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2389
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 14,
+          "value": "BB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07412023332388641
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-17T06:49:00Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12356446677.83638
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.796983566379083
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-17T06:49:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2388
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04456318102468996
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T14:16:57Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12264863.942982906
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.056876413253006
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T14:16:57Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgfdgd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2379
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04456318102468996
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T14:16:15Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12264863.942982906
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.056876413253006
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T14:16:15Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "asddsa"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2378
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04527912644000792
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T13:30:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12286070.402349865
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.530126685471435
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T13:30:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgdfgd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2375
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05825238392223304
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T13:07:40Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 23330630.04656
+        },
+        "portfolio_attribute_duration": {
+          "value": 14.710728895785142
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T13:07:40Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fghhrtgfgh"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2374
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 37
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02112596536487512
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T13:01:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12303595.982061135
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.51149354532509
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T13:01:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fgdgdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2372
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 37
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02158717338865907
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T13:01:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12307315.019180385
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.38659392168836
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T13:01:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfhggfdgdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2373
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 18
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 14,
+          "value": "BB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06086706451154678
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:57:20Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12322763.159793
+        },
+        "portfolio_attribute_duration": {
+          "value": 12.276917635585502
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:57:20Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fdgdfdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2371
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05160709375652233
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:55:51Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12285883.235917334
+        },
+        "portfolio_attribute_duration": {
+          "value": 13.308069526762365
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:55:51Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgdg"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2370
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.042962127743812084
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:52:47Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278478.5723125
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.664392886656666
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:52:47Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgfdgf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2369
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04529582259571299
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:39:19Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12285195.866972215
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.535432575424501
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:39:19Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2366
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04533384720768447
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:38:36Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12286244.369150564
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.539262109132967
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:38:36Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "ergfetrgfd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2365
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:37:36Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:37:36Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fghgfhfg"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2364
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:37:35Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:37:35Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "ghffgh"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2363
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 18
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0506851484388809
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:36:06Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12308481.155993326
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.836343436993745
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:36:06Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "thgfgh"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2362
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04527912644000792
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:34:57Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12286070.402349865
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.530126685471435
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:34:57Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgdfgfdg"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2361
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:34:52Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:34:52Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "12dsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2360
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:30:47Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:30:47Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgfgd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2359
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:20:04Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:20:04Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "cvbcv"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2358
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:19:25Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:19:25Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfds"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2357
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T12:16:56Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T12:16:56Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfggfd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2356
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020294388190239158
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T11:27:42Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12278123.28334056
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9922042741521675
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T11:27:42Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fdgdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2354
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.044560128137871156
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T11:19:52Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12266010.885778321
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.056135260672
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T11:19:52Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfds"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2352
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.044560128137871156
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T11:17:59Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12266010.885778321
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.056135260672
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T11:17:59Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfds"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2351
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04455641124501008
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-16T11:10:49Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12267352.070632251
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.055272099522643
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-16T11:10:49Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fdgdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2349
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.032768130629202225
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-10T11:06:22Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9292998945.508394
+        },
+        "portfolio_attribute_duration": {
+          "value": 10.000463076296741
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-10T11:06:22Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2295
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 14,
+          "value": "BB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07154652750573134
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-10T08:20:16Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12349357033.821
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.598467437017002
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-10T08:20:16Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2294
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05162212720920699
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-10T08:19:52Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 121834.68026492599
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.502352260114331
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-10T08:19:52Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2293
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 28
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05591542242148077
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-10T08:11:57Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12155422237.613161
+        },
+        "portfolio_attribute_duration": {
+          "value": 6.624752062311119
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-10T08:11:57Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2292
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 28
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05591542242148077
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-10T08:04:03Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12155422237.613161
+        },
+        "portfolio_attribute_duration": {
+          "value": 6.624752062311119
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-10T08:04:03Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2291
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 24
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 18,
+          "value": "A-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0179875763749484
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-09T14:49:32Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12321482.229727978
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.9829148240844385
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-09T14:49:32Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dfgdfg"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2284
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.044371704421716375
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-09T14:45:32Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12249857.051999154
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.999017768334942
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-09T14:45:32Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dsfdsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2281
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 48
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.03414119915209493
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-09T07:53:28Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 1977792.3716990002
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.860914237697964
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-09T07:53:28Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "jghj"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2265
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 48
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.03414119915209493
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-09T07:52:46Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 1977792.3716990002
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.860914237697964
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-09T07:52:46Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "hukhjk"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2264
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 54
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.030542386133244767
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-09T07:48:07Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 1977478.504392
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.0132767825694589
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-09T07:48:07Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Dev01-check reb vs. QA"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2263
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 27
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.052755202482104774
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T15:13:38Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12228127.53202947
+        },
+        "portfolio_attribute_duration": {
+          "value": 6.557214451397579
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T15:13:38Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2257
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 22
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0529609934216197
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T15:09:03Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12234418.455925994
+        },
+        "portfolio_attribute_duration": {
+          "value": 6.273245053403146
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T15:09:03Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfsds"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2256
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.044389856501334896
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T15:08:02Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12241607.181300813
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.004020726735147
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T15:08:02Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfdsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2255
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 11
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04507913889198715
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T14:58:17Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12342607.364631
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.978712336904387
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T14:58:17Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "idan"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2254
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 26
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.020075271812767727
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T14:48:51Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 994169.3548614603
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.3523097676765476
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T14:48:51Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sfgfdsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2249
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.044389856501334896
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T14:48:50Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12241607.181300813
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.004020726735147
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T14:48:50Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "idan"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2248
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 18
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 18,
+          "value": "A-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.016289308408059228
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T14:48:39Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12357233.386158105
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.9977218755884882
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T14:48:39Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "asd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2247
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 32
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.019171582076868542
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T14:46:06Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 12301400.423320914
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.953448477191836
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T14:46:06Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "idan"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2246
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 1
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.011162
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-10-08T07:33:24Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 100098.74299999999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.8261
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-10-08T07:33:24Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe11"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2236
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 15,
+          "value": "BBB-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05189980481885249
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-26T09:55:07Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 987542.288419846
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.302845476739499
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-26T09:55:07Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "idan"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 2148
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 18
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 10,
+          "value": "B"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07273250024469614
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-13T14:30:21Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 3981837.828
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.285769535546901
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-13T14:30:21Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "PLOP FDICK2018-09-13 14H:30M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1665
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.11617741615029945
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-03T07:05:05Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 49690834.498455994
+        },
+        "portfolio_attribute_duration": {
+          "value": 5.188202870930999
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-03T07:05:05Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "6%"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1571
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 18
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 10,
+          "value": "B"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0685972854605783
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-03T06:57:46Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 3988758.7670000005
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.286544778395529
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-03T06:57:46Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "PLOP FDICK"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1570
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 38
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06982629859506487
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-03T06:50:25Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9871847.008260608
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.418928735758176
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-03T06:50:25Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "TPFDS"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1569
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 25
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05895102443431221
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-03T06:45:10Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9882513.17052861
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.47678790828244
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-03T06:45:10Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "TOPFD"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1568
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04816284869513682
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T15:16:08Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9621538.621668546
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6426319178871776
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T15:16:08Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "my portfolio2018-09-02 15H:16M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1566
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 15
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02028079276171649
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T08:17:37Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 19949812.032815002
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8314331666302368
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T08:17:37Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "BABA"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1553
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 18,
+          "value": "A-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.019932557272503634
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T08:14:37Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9975030.784154002
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.7961847169175975
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T08:14:37Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "SUPERMAN"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1552
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 9,
+          "value": "B-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.12680377837829396
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T08:08:29Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 10462891.546485133
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.1275175647417712
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T08:08:29Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "SOGU"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1551
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 9,
+          "value": "B-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.12780732744274104
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T08:00:48Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 103089929.97259738
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.5197653364698542
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T08:00:48Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "22200"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1550
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 22
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 10,
+          "value": "B"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0858746538839885
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T07:57:18Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4852662.498941
+        },
+        "portfolio_attribute_duration": {
+          "value": 12.967232654749978
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T07:57:18Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "tony"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1549
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 20
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 9,
+          "value": "B-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0853280703891423
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-09-02T07:50:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4853825.471549
+        },
+        "portfolio_attribute_duration": {
+          "value": 13.6234848359227
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-09-02T07:50:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "\u05e9\u05d5\u05e2\u05dc"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1547
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 12
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.019345175875439255
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-30T10:33:07Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9896833.059021508
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.09369761819291
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-30T10:33:07Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "GenZ1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1527
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 15
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.03182552685533028
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-30T10:30:24Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9800279.976503305
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.214201447800466
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-30T10:30:24Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Genx1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1526
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 31
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06894393562912617
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-30T06:38:00Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 945236.3587421711
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.914289818727195
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-30T06:38:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "RB1x"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1523
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06482776037956933
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-28T14:03:48Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 942953.1477980001
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.7627447463936097
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-28T14:03:48Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "cvbcvbcvbcvbcvbcvbcvb2018-08-28 14H:03M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1491
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06410323290005893
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-28T14:03:08Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 949586.63574
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.717927541762349
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-28T14:03:08Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "cvbcvbcvbcvbcvbcvbcvb2018-08-28 14H:03M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1490
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05280175835890322
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:58:44Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9690507.711746546
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.526434295195169
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:58:44Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "my portfolio2018-08-26 14H:58M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1455
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06484174411688319
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:56:07Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94311128.26821999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.42909796589353
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:56:07Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:45M2018-08-26 14H:49M2018-08-26 14H:54M2018-08-26 14H:56M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1454
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.060671314318876644
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:54:20Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94303529.24822
+        },
+        "portfolio_attribute_duration": {
+          "value": 5.800083031371101
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:54:20Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:45M2018-08-26 14H:49M2018-08-26 14H:54M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1453
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.09544589739987178
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:49:22Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94207004.77321999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.519820696332151
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:49:22Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:45M2018-08-26 14H:49M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1452
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:45:38Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:45:38Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:45M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1451
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:28Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:28Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1450
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:27Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:27Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1448
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:27Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:27Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1449
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1444
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1446
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1447
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1445
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:25Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:25Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1443
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:20Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:20Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1442
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.13880284285882274
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:44:04Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94637077.71521999
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.423684309238157
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:44:04Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M2018-08-26 14H:44M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1441
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06713271529693517
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-26T14:35:45Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94558573.12398599
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.649908186840161
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-26T14:35:45Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd2018-08-26 14H:35M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1440
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.046381994048810354
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-23T08:20:55Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9651824.330331545
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.5193913886634087
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-23T08:20:55Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "my portfolio2018-08-23 07H:16M2018-08-23 08H:20M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1387
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04576571694976303
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-23T07:16:16Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9691956.003598547
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6653286857875766
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-23T07:16:16Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "my portfolio2018-08-23 07H:16M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1386
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.14159315481886314
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-22T15:08:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94664963.91712
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.3989704731206904
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-22T15:08:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-22 14H:20M2018-08-22 15H:08M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1377
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06527020897575521
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-22T14:20:03Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94586971.49586399
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6388396417200353
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-22T14:20:03Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-22 14H:20M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1373
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06527020897575521
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-22T12:58:19Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 94586971.49586399
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6388396417200353
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-22T12:58:19Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-22 12H:58M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1369
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07114243381900176
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-21T13:01:51Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 69184019.0497196
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.926949856830423
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-21T13:01:51Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-21 13H:01M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1350
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07568422760480376
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-21T12:53:08Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93842025.25271699
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6486148605185127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-21T12:53:08Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-21 12H:53M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1349
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07568422760480376
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-21T12:52:52Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93842025.25271699
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6486148605185127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-21T12:52:52Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-21 12H:52M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1348
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07568422760480376
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-21T12:48:35Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93842025.25271699
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6486148605185127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-21T12:48:35Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-21 12H:48M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1346
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.07568422760480376
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-21T12:20:27Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93842025.25271699
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.6486148605185127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-21T12:20:27Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio2018-08-21 12H:20M"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1345
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.016814703130381355
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-19T11:48:17Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9966621.533369824
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.023208524735621
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-19T11:48:17Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "moshe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1319
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 17
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.021376603726095036
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T13:50:10Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 99362292.00034748
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.7714004974631044
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T13:50:10Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sfsdsfd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1261
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 15
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0214014985371399
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T13:49:01Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9937600.101876676
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8511071992575473
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T13:49:01Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1260
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 63
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.03211873894699426
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T13:45:14Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 1977005.0886009997
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.8715017146351476
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T13:45:14Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "NewPort1232"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1258
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 17
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.021410853745344422
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T11:27:02Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 4967314.219570008
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.7237787909391936
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T11:27:02Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "GenX"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1256
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02209337341226826
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:19:09Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9448876.596008781
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.687336775443443
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:19:09Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Rebalance again"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1253
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.022419265569260178
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:16:30Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9446865.880722782
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8825706330657996
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:16:30Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "rebalanced ABC 1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1251
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.022419265569260178
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:16:30Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9446865.880722782
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8825706330657996
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:16:30Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "rebalanced ABC 1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1252
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.017737266904272336
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:14:02Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 954220.4754374288
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9809081917411935
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:14:02Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Ari's rebalanced portfolio2"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1250
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.022400840415766964
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:11:20Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9452476.37121128
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8827408995309245
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:11:20Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Ari's rebalanced portfolio"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1249
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 16
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.021371835224551702
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T10:10:31Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 49641032.15335881
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.0178684046627855
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T10:10:31Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Ari's portfolio - DEMO to FIIG"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1248
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 17
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02148175205085155
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T05:44:56Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9935662.347736461
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.9240030863604729
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T05:44:56Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Test abc"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1236
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 20
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.026043313400231
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-12T05:43:00Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 1981304.0462099994
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.4914755860876021
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-12T05:43:00Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Test 123"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1235
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 8
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 21,
+          "value": "AA-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.08031805422529087
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-09T15:16:03Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9617543.5965153
+        },
+        "portfolio_attribute_duration": {
+          "value": 11.784113815026833
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-09T15:16:03Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "MY - AA"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1230
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 7
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 18,
+          "value": "A-"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05113626572649816
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-08T10:44:55Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 197803.71216899998
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.6253324163753535
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-08T10:44:55Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "geva - abuse - 1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1211
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 29
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.017803822401524495
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-08T09:20:11Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 983163.1436796151
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.9952415981578437
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-08T09:20:11Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "GU-300-1"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1204
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 7
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 4,
+          "value": "C"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.024950522624063276
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-07T15:47:28Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 10955035.867176801
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.9531962744394709
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-07T15:47:28Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Shira"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1198
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 13,
+          "value": "BB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.12190321881796881
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-07T14:20:21Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9283846.764086733
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.3057501195307433
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-07T14:20:21Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1195
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 20,
+          "value": "A+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.022141077916229962
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-07T13:48:41Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 992957.1270157741
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.8183430985273127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-07T13:48:41Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "My sharona"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1193
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.043415673402929345
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T14:04:10Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 765531.0496806673
+        },
+        "portfolio_attribute_duration": {
+          "value": 8.240563016570436
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T14:04:10Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1171
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.046984085004703316
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:54:35Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 8256122375.667886
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.2566632319200064
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:54:35Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1154
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04238686752747397
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:52:15Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 768504.8558847369
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.657623046019392
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:52:15Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1153
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04238686752747397
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:50:42Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 768504.8558847369
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.657623046019392
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:50:42Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "sdf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1152
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04479121660702075
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:48:16Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 764568.5429842272
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.284888027355997
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:48:16Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1151
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04479121660702075
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:44:59Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 764568.5429842272
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.284888027355997
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:44:59Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1150
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 9
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04479121660702075
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:41:57Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 764568.5429842272
+        },
+        "portfolio_attribute_duration": {
+          "value": 9.284888027355997
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:41:57Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1149
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04238686752747397
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-06T11:36:42Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 768504.8558847369
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.657623046019392
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-06T11:36:42Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "werwe"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1148
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 45
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 19,
+          "value": "A"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.02807256784568669
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-05T09:57:59Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9905919.609479325
+        },
+        "portfolio_attribute_duration": {
+          "value": 0.985784891829962
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-05T09:57:59Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1131
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.052509520611619835
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-05T09:54:54Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9609086.707780804
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.160107693311917
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-05T09:54:54Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "Hillel"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1130
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.052509520611619835
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-05T08:27:33Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9609086.707780804
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.160107693311917
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-05T08:27:33Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1123
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.0498080209945914
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-01T11:03:31Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9587489.16562596
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.792957342455191
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-01T11:03:31Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fdsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1052
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04981255476496583
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-08-01T09:24:21Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9586342.222830545
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.7933955194230604
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-08-01T09:24:21Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "fasfdsf"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1046
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 8
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04043415066967015
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-30T14:23:26Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "EUR"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 755495.1664715656
+        },
+        "portfolio_attribute_duration": {
+          "value": 7.133551464668917
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-30T14:23:26Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "kjh"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1029
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06445878570743191
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-26T09:04:14Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93648833.75622
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.912450847178474
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-26T09:04:14Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1006
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06445878570743191
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-26T09:00:46Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93648833.75622
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.912450847178474
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-26T09:00:46Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1005
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 13
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06445878570743191
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-26T08:34:13Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93648833.75622
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.912450847178474
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-26T08:34:13Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "dagfsfsd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 1003
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04981255476496583
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-23T13:11:31Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9586342.222830545
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.7933955194230604
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-23T13:11:31Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "my portfolio"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 986
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.04213792304611083
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-18T07:31:22Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 9632200.003485832
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.0920731410597322
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-18T07:31:22Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "ssdfasdfsdffd"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 967
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 4
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 17,
+          "value": "BBB+"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.042174266157107565
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-17T11:04:28Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 963982.9774690421
+        },
+        "portfolio_attribute_duration": {
+          "value": 1.093180070090337
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-17T11:04:28Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "new port"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 946
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06239913574697573
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-16T14:39:28Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 93605253.92512
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.9084324677054543
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-16T14:39:28Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "optimal sharpe ratio"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 934
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 10
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06229265771587863
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-16T14:28:52Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 936197.4137400001
+        },
+        "portfolio_attribute_duration": {
+          "value": 3.9616088415057464
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-16T14:28:52Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "cvbcvbcvbcvbcvbcvbcvb"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 933
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 32
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.06366406883464171
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-16T14:28:19Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 96949.85627339715
+        },
+        "portfolio_attribute_duration": {
+          "value": 2.2589613419239103
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-16T14:28:19Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "hgfhg"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 932
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      },
+      {
+        "children": [],
+        "in_sync": {
+          "value": true
+        },
+        "portfolio_attribute_asset_count": {
+          "value": 35
+        },
+        "portfolio_attribute_avg_rating": {
+          "order": 16,
+          "value": "BBB"
+        },
+        "portfolio_attribute_avg_yield": {
+          "value": 0.05072740557371361
+        },
+        "portfolio_attribute_creation_date": {
+          "value": "2018-07-16T14:20:42Z"
+        },
+        "portfolio_attribute_currency": {
+          "value": "USD"
+        },
+        "portfolio_attribute_current_capital": {
+          "value": 947272.5832007144
+        },
+        "portfolio_attribute_duration": {
+          "value": 4.578660670182127
+        },
+        "portfolio_attribute_last_modified": {
+          "value": "2018-07-16T14:20:42Z"
+        },
+        "portfolio_attribute_name": {
+          "value": "c vgxfc"
+        },
+        "portfolio_attribute_portfolio_id": {
+          "value": 931
+        },
+        "portfolio_attribute_type": {
+          "value": "Proposal"
+        }
+      }
+    ]
+  },
+  "runtime": 9.914899949915707
+}

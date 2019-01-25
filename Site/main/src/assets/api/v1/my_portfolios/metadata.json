@@ -1,0 +1,103 @@
+{
+  "components": {
+    "table_filters": {
+      "sections": [
+        "section_portfolio_type"
+      ]
+    },
+    "table_portfolio_attributes": {
+      "sections": [
+        "section_portfolio_attributes"
+      ]
+    }
+  },
+  "portfolio_attribute_elements": {
+    "portfolio_attribute_asset_count": {
+      "data_type": "number",
+      "format": {
+        "digits_info": "1.0-0"
+      },
+      "title": "# Bonds"
+    },
+    "portfolio_attribute_avg_rating": {
+      "data_type": "string",
+      "order": "specialOrder",
+      "title": "Avg. Rating"
+    },
+    "portfolio_attribute_avg_yield": {
+      "data_type": "mul100_percent",
+      "format": {
+        "digits_info": "1.1-2"
+      },
+      "title": "Avg. Yield"
+    },
+    "portfolio_attribute_creation_date": {
+      "data_type": "date",
+      "format": {
+        "date_format": "yyyy-MMM-dd"
+      },
+      "title": "Date Created"
+    },
+    "portfolio_attribute_currency": {
+      "data_type": "string",
+      "title": "Currency"
+    },
+    "portfolio_attribute_current_capital": {
+      "data_type": "number",
+      "format": {
+        "digits_info": "1.0-0"
+      },
+      "title": "Current Capital"
+    },
+    "portfolio_attribute_duration": {
+      "data_type": "time_period",
+      "format": {
+        "digits_info": "1.0-2",
+        "period": "Y"
+      },
+      "title": "Avg. Duration"
+    },
+    "portfolio_attribute_last_modified": {
+      "data_type": "date",
+      "format": {
+        "date_format": "yyyy-MMM-dd"
+      },
+      "title": "Last Updated"
+    },
+    "portfolio_attribute_name": {
+      "data_type": "string",
+      "title": "Portfolio Name"
+    },
+    "portfolio_attribute_portfolio_id": {
+      "data_type": "string",
+      "title": "--Internal--",
+      "visibility": "force-hidden"
+    },
+    "portfolio_attribute_type": {
+      "data_type": "string",
+      "title": "Portfolio Type"
+    }
+  },
+  "sections": {
+    "section_portfolio_attributes": {
+      "portfolio_attribute_elements": [
+        "portfolio_attribute_portfolio_id",
+        "portfolio_attribute_type",
+        "portfolio_attribute_name",
+        "portfolio_attribute_currency",
+        "portfolio_attribute_current_capital",
+        "portfolio_attribute_asset_count",
+        "portfolio_attribute_avg_yield",
+        "portfolio_attribute_duration",
+        "portfolio_attribute_avg_rating",
+        "portfolio_attribute_creation_date",
+        "portfolio_attribute_last_modified"
+      ]
+    },
+    "section_portfolio_type": {
+      "form_elements": [
+        "portfolio_type"
+      ]
+    }
+  }
+}
