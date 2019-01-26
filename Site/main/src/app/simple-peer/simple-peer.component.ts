@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, EventEmitter, Output, ElementRef, HostListener, Renderer, SecurityContext, ViewEncapsulation, Renderer2, TemplateRef} from '@angular/core';
-import { fillProperties } from '@angular/core/src/util/property';
+//import { fillProperties } from '@angular/core/src/util/property';
 
 @Component({
   selector: 'app-simple-peer',
@@ -10,7 +10,8 @@ export class SimplePeerComponent implements OnInit {
   @ViewChild('myVideoCtr') myVideoCtr: any;
   @ViewChild('otherUserVideoCtr') otherUserVideoCtr: any;
 
-
+  error = '';
+  info = '';
   peer: any = null;
   myVideo: any;
   otherUserVideo: any;
@@ -36,6 +37,8 @@ export class SimplePeerComponent implements OnInit {
 
 
   loadResources() { //isInitiator = true, location.hash === '#init'  //isInitiator: boolean = true
+    this.error = '';
+    this.info = '';
     let myVideo = this.myVideo;
     let otherUserVideo = this.otherUserVideo;
     //let peerx: any;
@@ -114,6 +117,7 @@ export class SimplePeerComponent implements OnInit {
       //peerx.on('connect', function () {
       that.peer.on('connect', function () {
         console.log('You are connected!!!')
+        that.info = "Connected!";
         that.myVideo.srcObject = stream; //https://stackoverflow.com/questions/49628595/capture-from-webcamera-html
         that.myVideo.play();
       })
@@ -121,6 +125,7 @@ export class SimplePeerComponent implements OnInit {
       //peerx.on('error', function (f) {
       that.peer.on('error', function (f) {
         console.log('*****************************error in peer*****************************,' + f.message)
+        that.error = f.message;
       })
       that.peer.on('close', function () {
         console.log('Close has been fired')
@@ -184,7 +189,7 @@ export class SimplePeerComponent implements OnInit {
       }
       if (friendlyError != '') {
         console.log(friendlyError);
-
+        that.error = friendlyError;
       }
 
 
@@ -194,6 +199,8 @@ export class SimplePeerComponent implements OnInit {
   }
 
   connect() {
+    this.error = '';
+    this.info = '';
     let otherPeerId = JSON.parse(this.otherUserPeerDetails);
     this.peer.signal(otherPeerId);
   }
