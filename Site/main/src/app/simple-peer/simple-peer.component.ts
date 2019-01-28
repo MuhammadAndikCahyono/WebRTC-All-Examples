@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, EventEmitter, Output, ElementRef, HostListener, Renderer, SecurityContext, ViewEncapsulation, Renderer2, TemplateRef} from '@angular/core';
-//import { fillProperties } from '@angular/core/src/util/property';
+
 
 @Component({
   selector: 'app-simple-peer',
@@ -20,7 +20,7 @@ export class SimplePeerComponent implements OnInit {
   isInitiator = true;
   myIceServers = [
     {
-      "urls": "stun:numb. .ca",
+      "urls": "stun:numb.ca",
     },
     {
       "urls": "turn:numb.viagenie.ca",

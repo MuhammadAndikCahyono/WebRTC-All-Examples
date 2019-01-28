@@ -1,0 +1,64 @@
+<h2 *ngIf="error!=''" class="alert alert-warning">  {{error}}</h2>
+<h2 *ngIf="info!=''" class="alert alert-info">  {{info}}</h2>
+<strong>
+  Stage 1
+</strong>
+<hr />
+<div class="row">
+  <div class="col-6">
+    <button (click)="loadResources()">Start</button>
+    <br />
+    <button (click)="call()">Call From Initiator</button>
+    <br />
+    My Peer:
+    <input [(ngModel)]="myPeerDetails" />
+
+  </div>
+  <div class="col-6">
+    <div style="height:300px;">
+      <video #myVideoCtr muted></video>
+    </div>
+  </div>
+</div>
+<hr />
+<strong>
+  Stage 2
+</strong>
+<hr />
+copy data from one Id to another.
+<div class="row">
+  <div class="col-6">
+    Other Peer Details:
+    <input [(ngModel)]="otherUserPeerDetails" />
+    <br />
+    <button (click)="answer()">Answer From Reciver</button>
+    <br />
+    My Candidate: <input [(ngModel)]="arrIceCandidatesMyData" />
+    <br />
+    Other PC Candidate: <input [(ngModel)]="arrIceCandidatesOtherPCData" />
+    <br />
+    <!--<button (click)="addIceCandidatesToPC(pc2)">Load Ice candidate to receiver</button>
+  <br />
+  <button (click)="addIceCandidatesToPC(pc1)">Load Ice candidate to caller</button>
+  <br />-->
+
+    <button (click)="createIceCandiatesObject()">Create Candidate for receiver</button>
+    <div *ngFor="let item of arrIceCandidatesOtherPCDataObj">
+      <input [(ngModel)]="item" />
+      <button (click)="loadCandidate(item, pc2)">Load Candidate for pc2</button>
+      <button (click)="loadCandidate(item, pc1)">Load Candidate for pc1</button>
+    </div>
+
+    <button (click)="connect()">Connect From Initiator</button>
+  </div>
+  <div class="col-6">
+    <div style="height:300px;">
+      <video #otherUserVideoCtr playsinline autoplay muted></video>
+    </div>
+  </div>
+</div>
+
+
+
+
+

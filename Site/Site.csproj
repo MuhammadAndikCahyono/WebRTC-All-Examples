@@ -77,6 +77,8 @@
     <Content Include="main\src\app\home\home.component.html" />
     <Content Include="main\src\app\simple-peer\simple-peer.component.css" />
     <Content Include="main\src\app\simple-peer\simple-peer.component.html" />
+    <Content Include="main\src\app\video-chat-web-rtc\video-chat-web-rtc.component.css" />
+    <Content Include="main\src\app\video-chat-web-rtc\video-chat-web-rtc.component.html" />
     <Content Include="main\src\favicon.ico" />
     <Content Include="main\src\index.html" />
     <Content Include="main\src\karma.conf.js" />
@@ -116,6 +118,8 @@
     <TypeScriptCompile Include="main\src\app\home\home.component.ts" />
     <TypeScriptCompile Include="main\src\app\simple-peer\simple-peer.component.spec.ts" />
     <TypeScriptCompile Include="main\src\app\simple-peer\simple-peer.component.ts" />
+    <TypeScriptCompile Include="main\src\app\video-chat-web-rtc\video-chat-web-rtc.component.spec.ts" />
+    <TypeScriptCompile Include="main\src\app\video-chat-web-rtc\video-chat-web-rtc.component.ts" />
     <TypeScriptCompile Include="main\src\environments\environment.prod.ts" />
     <TypeScriptCompile Include="main\src\environments\environment.ts" />
     <TypeScriptCompile Include="main\src\main.ts" />
