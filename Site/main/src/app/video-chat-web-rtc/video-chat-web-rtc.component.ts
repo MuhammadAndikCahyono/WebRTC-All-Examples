@@ -67,12 +67,12 @@ export class VideoChatWebRTCComponent implements OnInit {
     const config = {
       iceServers: this.myIceServers
     }
-    var DtlsSrtpKeyAgreement = {
-      DtlsSrtpKeyAgreement: true
-    };
-    var optional = {
-      optional: [DtlsSrtpKeyAgreement]
-    };
+    //var DtlsSrtpKeyAgreement = {
+    //  DtlsSrtpKeyAgreement: true
+    //};
+    //var optional = {
+    //  optional: [DtlsSrtpKeyAgreement]
+    //};
     let that = this;
     const offerOptions = {
      // offerToReceiveAudio: 1,
@@ -85,7 +85,9 @@ export class VideoChatWebRTCComponent implements OnInit {
     this.pc1.onicegatheringstatechange = e => this.gatheringStateChange(this.pc1, e);
     this.pc1.oniceconnectionstatechange = e => this.onIceStateChange(this.pc1, e);
     //this.pc1.ontrack = this.gotRemoteStream;
-    this.pc1.ontrack = e => this.gotRemoteStream(e);
+    //this.pc1.ontrack = e => this.gotRemoteStream(e);
+    this.pc1.addEventListener('track', e => this.gotRemoteStream(e));
+
     this.localStream.getTracks().forEach(track => this.pc1.addTrack(track, this.localStream));
    
     this.pc1.createOffer(offerOptions)
@@ -174,7 +176,8 @@ export class VideoChatWebRTCComponent implements OnInit {
     this.pc2.onicecandidate = e => this.onIceCandidate(this.pc2, e);
     this.pc2.oniceconnectionstatechange = e => this.onIceStateChange(this.pc2, e);
     this.localStream.getTracks().forEach(track => this.pc2.addTrack(track, this.localStream));
-    this.pc2.ontrack = e => this.gotRemoteStream(e);
+    //this.pc2.ontrack = e => this.gotRemoteStream(e);
+    this.pc2.addEventListener('track', e => this.gotRemoteStream(e));
    
 
     let otherUserPeerDetailsObj = JSON.parse(this.otherUserPeerDetails);

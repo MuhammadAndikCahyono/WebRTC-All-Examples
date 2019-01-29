@@ -32,7 +32,11 @@ copy data from one Id to another.
     <input [(ngModel)]="otherUserPeerDetails" />
     <br />
     <button (click)="answer()">Answer From Reciver</button>
+    
+
+    <button (click)="connect()">Connect From Initiator</button>
     <br />
+    <hr />
     My Candidate: <input [(ngModel)]="arrIceCandidatesMyData" />
     <br />
     Other PC Candidate: <input [(ngModel)]="arrIceCandidatesOtherPCData" />
@@ -49,7 +53,7 @@ copy data from one Id to another.
       <button (click)="loadCandidate(item, pc1)">Load Candidate for pc1</button>
     </div>
 
-    <button (click)="connect()">Connect From Initiator</button>
+
   </div>
   <div class="col-6">
     <div style="height:300px;" class="embed-responsive embed-responsive-4by3">
