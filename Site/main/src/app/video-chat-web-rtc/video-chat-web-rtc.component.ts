@@ -80,19 +80,24 @@ export class VideoChatWebRTCComponent implements OnInit {
     };
     this.pc1 = new RTCPeerConnection(config);
     //this.pc1.onicecandidate = e => this.onIceCandidate(this.pc1, e);
+
     this.pc1.addEventListener('icecandidate', e => this.onIceCandidate(this.pc1, e));
     this.pc1.onicegatheringstatechange = e => this.gatheringStateChange(this.pc1, e);
     this.pc1.oniceconnectionstatechange = e => this.onIceStateChange(this.pc1, e);
     //this.pc1.ontrack = this.gotRemoteStream;
     this.pc1.ontrack = e => this.gotRemoteStream(e);
     this.localStream.getTracks().forEach(track => this.pc1.addTrack(track, this.localStream));
-    this.pc1.createOffer(offerOptions).then(function (offer) { //success
+   
+    this.pc1.createOffer(offerOptions)
+      .then(offer => {
       console.log('offer: ' + offer);
       //that.pc1.setLocalDescription(new RTCSessionDescription(offer)); //now manually go and set in the other browser the remote description
       that.pc1.setLocalDescription(offer);
       console.log('pc1.localDescription' + that.pc1.localDescription);
       let strData = JSON.stringify(that.pc1.localDescription);
       that.myPeerDetails = strData;
+
+     
 
 
     }, function (error) { //error
@@ -166,11 +171,11 @@ export class VideoChatWebRTCComponent implements OnInit {
     }
     this.pc2 = new RTCPeerConnection(config);
     this.pc2.onicegatheringstatechange = this.gatheringStateChange;
-    
     this.pc2.onicecandidate = e => this.onIceCandidate(this.pc2, e);
     this.pc2.oniceconnectionstatechange = e => this.onIceStateChange(this.pc2, e);
     this.localStream.getTracks().forEach(track => this.pc2.addTrack(track, this.localStream));
     this.pc2.ontrack = e => this.gotRemoteStream(e);
+   
 
     let otherUserPeerDetailsObj = JSON.parse(this.otherUserPeerDetails);
     this.pc2.setRemoteDescription(otherUserPeerDetailsObj)
@@ -184,6 +189,8 @@ export class VideoChatWebRTCComponent implements OnInit {
 
         //this.pc2.setLocalDescription(new RTCSessionDescription(answer));
         this.pc2.setLocalDescription(answer);
+
+       
 
       }).then(() => this.onSetLocalSuccess(this.pc2), this.onSetSessionDescriptionError)
 
